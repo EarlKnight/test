@@ -8,5 +8,6 @@ namespace ConsoleApplication1
 {
     class test1
     {
+        public int father { get; set; }
     }
 }
